@@ -1,0 +1,57 @@
+gbd20
+[own makefile]Grading first------------------------------------.
+[required makefile]Grading first.-----------------------------------
+[own makefile]Grading second------------------------------------.
+[required makefile]Grading second.-----------------------------------
+[own makefile]Grading third------------------------------------.
+[required makefile]Grading third.-----------------------------------
+[own makefile]Grading fourth------------------------------------.
+[own makefile]The output is not correct for input file test6.txt
+[own makefile]The output is not correct for input file test7.txt
+[required makefile]Grading fourth.-----------------------------------
+[required makefile]The output is not correct for input file test6.txt.
+[required makefile]The output is not correct for input file test7.txt.
+[own makefile]Grading fifth------------------------------------.
+[required makefile]Grading fifth.-----------------------------------
+[own makefile]Grading sixth------------------------------------
+[required makefile]Grading sixth-------------------------------
+[own makefile]Grading seventh------------------------------------
+[required makefile]Grading seventh-------------------------------
+[own makefile]Grading eighth------------------------------------.
+[own makefile]The output is not correct for input file test10.txt
+[own makefile]The output is not correct for input file test8.txt
+[own makefile]The output is not correct for input file test9.txt
+[required makefile]Grading eighth.-----------------------------------
+[required makefile]The output is not correct for input file test10.txt.
+[required makefile]The output is not correct for input file test8.txt.
+[required makefile]The output is not correct for input file test9.txt.
+[own makefile]Grading ninth------------------------------------.
+[own makefile]The output is not correct for input file test10.txt
+[own makefile]The output is not correct for input file test8.txt
+[own makefile]The output is not correct for input file test9.txt
+[required makefile]Grading ninth.-----------------------------------
+[required makefile]The output is not correct for input file test10.txt.
+[required makefile]The output is not correct for input file test8.txt.
+[required makefile]The output is not correct for input file test9.txt.
+-----own makefile---
+ 10.0 in second
+ 8.0 in fourth
+ 10.0 in third
+ 7.77777777778 in sixth
+ 13.3333333333 in ninth
+ 5.0 in seventh
+ 10.5 in eighth
+ 10.0 in fifth
+ 10.0 in first
+ own makefile scores are 84.61 /100
+-----required makefile---
+ 10.0 in second
+ 8.0 in fourth
+ 10.0 in third
+ 7.77777777778 in sixth
+ 13.3333333333 in ninth
+ 5.0 in seventh
+ 10.5 in eighth
+ 10.0 in fifth
+ 10.0 in first
+required gcc command scores are 84.61 /100

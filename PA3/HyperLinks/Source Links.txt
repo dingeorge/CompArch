@@ -1,0 +1,8 @@
+Assignment 3 HyperLinks:
+
+Part 1, C:
+8051 Microcontroller Datasheet link
+http://www.keil.com/dd/docs/datashts/intel/80xxah_ds.pdf
+
+Extra Credit Part, A: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=261486
